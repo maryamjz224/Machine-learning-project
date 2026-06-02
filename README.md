@@ -8,5 +8,4 @@ students :
 5- Maryam Abu Qurain
 
 # Project Description 
-the goal of the project is to build a model to detect sleep disorders earlier.we apply both SVM AND ANN to our datset after EDA.
-SVM was chosen for its strong performance on structured health classification tasks. While ANN for its ability to capture the complete nonlinear relationships
+Sleep disorders are rising worldwide because of things that affect our physical and mental health. The goal of this project is to build a model to find these sleep problems earlier. Older studies have common weaknesses, like looking at only one or two factors at a time and treating the issue as a simple binary problem. In this project, we do an Exploratory Data Analysis (EDA) first, and then apply both SVM and ANN to our dataset. We chose SVM because it works very well for sorting health data, and we used ANN for its ability to find complex, non-linear relationships in the data.
